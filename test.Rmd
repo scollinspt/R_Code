@@ -1,0 +1,10 @@
+---
+title: "R to WordPress Test"
+author: "Sean Collins"
+start date: "December 7, 2015"
+revised data: "December 9, 2015"
+output: html_document
+---
+# Just a test
+
+Test to see whether I can push R Studio markdown code to my wordpress blog

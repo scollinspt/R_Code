@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/107929/0f411bfee5894712a32d2f598ed3c867
+url: http://rpubs.com/sean_collins/107929
+when: 1441792049.95181
